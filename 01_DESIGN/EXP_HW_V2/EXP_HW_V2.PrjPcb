@@ -288,6 +288,23 @@ GenerateClassCluster=0
 DocumentUniqueId=AGNYTDXW
 
 [Document15]
+DocumentPath=FRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SAQICLMG
+
+[Document16]
 DocumentPath=EXP_V110.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
