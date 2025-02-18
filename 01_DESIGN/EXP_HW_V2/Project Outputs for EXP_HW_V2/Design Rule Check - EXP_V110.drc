@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Altium_WorkSpace\EXP_V2\01_DESIGN\EXP_HW_V2\EXP_V110.PcbDoc
-Date     : 2/16/2025
-Time     : 10:29:19 PM
+Date     : 2/18/2025
+Time     : 3:03:43 PM
 
 Processing Rule : Clearance Constraint (Gap=0.178mm) (NOT InNet('PROTECT_EMI') and NOT OnLayer('Keep-Out Layer')),(not OnLayer('Keep-out Layer'))
 Rule Violations :0
@@ -42,6 +42,9 @@ Rule Violations :0
 Processing Rule : Delay Constraint (Min=84.5ps) (Max=84.5ps) (InNetClass('USB_DATA'))
 Rule Violations :0
 
+Processing Rule : Matched Lengths(Delay Tolerance=20ps) (InDifferentialPairClass('DIF100'))
+Rule Violations :0
+
 Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InAnyDifferentialPair)
 Rule Violations :0
 
@@ -51,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:02
